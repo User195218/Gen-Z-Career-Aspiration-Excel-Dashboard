@@ -1,5 +1,4 @@
-#Excel
-Excel-Project
+ Excel-Project
 
 Created an executive Dashboard in Excel, and used data visualization to deliver KPIs.
 This dashboard includes:
